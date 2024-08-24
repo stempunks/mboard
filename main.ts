@@ -5,7 +5,7 @@ load dependency
 "SuperBit": "file:../pxt-Superbit"
 */
 
-//% color="#ECA40D" weight=20 icon="\uf085"
+//% color="#000000" weight=20 icon="\uf085"
 namespace SuperBit {
 
     const PCA9685_ADD = 0x40
